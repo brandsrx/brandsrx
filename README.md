@@ -24,18 +24,6 @@
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=brandsrx&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9" />
 
-### `whoami`
-
-```python
-brand = {
-    "role"    : "Backend Developer",
-    "studying": "AI / Data Science",
-    "focus"   : ["Go", "Backend Architecture",
-                 "AI Agents", "System Design"],
-    "motto"   : "Simple outside. Powerful inside."
-}
-```
-
 <br clear="right"/>
 
 ---
@@ -79,64 +67,6 @@ brand = {
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
 </div>
-
----
-
-## 🛠️ Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Icoore / Opervic
-
-> Business operating system & dynamic system builder
-
-A platform for creating internal tools, dashboards, workflows, and business apps — without starting from scratch.
-
-**Highlights:**
-- `Multi-tenant architecture`
-- `Dynamic database structure`
-- `Visual workflow engine with nodes`
-- `Runtime engine for user-created systems`
-- `Page builder + dynamic rendering`
-
-**Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `React Flow` · `Puck.js` · `TailwindCSS`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 Nibble
-
-> Peer-to-peer file transfer — fast, private, browser-based
-
-No intermediate servers. No accounts. Just share.
-
-**Highlights:**
-- `WebRTC-based direct transfer`
-- `Room/code-based connection flow`
-- `QR connection support`
-- `Zero file data on server`
-- `Clean minimal UI`
-
-**Stack:** `TypeScript` · `WebRTC` · `Node.js` · `React` · `TailwindCSS`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🤖 AI & Automation Experiments
-
-> LLM workflows · AI agents · data processing · automation
-
-Exploring the frontier: LangChain agents, vector search, chatbot architectures, ML model experiments, and AI-assisted automation pipelines.
-
-**Stack:** `Python` · `LangChain` · `TensorFlow` · `PyTorch` · `Flask` · `FastAPI`
-
-</td>
-</tr>
-</table>
 
 ---
 
