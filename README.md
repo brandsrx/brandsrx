@@ -83,24 +83,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   ▸ Backend Architecture    ▸ Go Development        │
-│   ▸ AI Agents               ▸ Workflow Engines      │
-│   ▸ Dynamic Systems         ▸ Database Design       │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 📬 Contact
 
 <div align="center">
