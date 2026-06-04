@@ -15,16 +15,7 @@
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Crafting+AI-powered+tools+%F0%9F%A4%96;Architecting+databases+%26+APIs+%F0%9F%97%84%EF%B8%8F)](https://github.com/brandsrx)
-
-<img src="https://komarev.com/ghpvc/?username=brandsrx&label=Profile+Views&color=2563eb&style=flat-square" />
-
 </div>
-
----
-
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=brandsrx&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9" />
-
-<br clear="right"/>
 
 ---
 
@@ -73,9 +64,6 @@
 ## 📊 Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=brandsrx&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandsrx&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9" />
 
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=brandsrx&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" />
 
