@@ -10,8 +10,8 @@
   <a href="mailto:ramitpr53@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/brandsrx">
-    <img src="https://img.shields.io/badge/@brandsrx-181717?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/brandonbert8">
+    <img src="https://img.shields.io/badge/@brandonbert8-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
